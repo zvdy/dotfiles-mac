@@ -11,6 +11,15 @@ macOS terminal setup, all in one Gruvbox (morhetz) bg/fg palette: no accent colo
 | nvim | `nvim/` | LazyVim, gruvbox hard, transparent |
 | btop | `btop/btop.conf` | |
 
+## Screenshots
+
+| | |
+| --- | --- |
+| ![prompt](screenshots/prompt.png) | ![tmux](screenshots/tmux.png) |
+| starship prompt in Ghostty | tmux status bar and splits |
+| ![nvim](screenshots/nvim.png) | ![btop](screenshots/btop.png) |
+| LazyVim, gruvbox hard | btop |
+
 ## Install
 
 ```sh
